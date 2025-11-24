@@ -1,0 +1,82 @@
+[
+  {
+    "measurement_id": 0,
+    "true_position": [
+      57.79431948282439,
+      110.82585084825513
+    ],
+    "distance_from_center": 124.99020993950873
+  },
+  {
+    "measurement_id": 1,
+    "true_position": [
+      192.5549067473546,
+      65.89533085800103
+    ],
+    "distance_from_center": 203.51802559323303
+  },
+  {
+    "measurement_id": 2,
+    "true_position": [
+      19.883851334105707,
+      -221.47504998464024
+    ],
+    "distance_from_center": 222.365836651172
+  },
+  {
+    "measurement_id": 3,
+    "true_position": [
+      240.36457112443347,
+      276.7472656346277
+    ],
+    "distance_from_center": 366.55719347473735
+  },
+  {
+    "measurement_id": 4,
+    "true_position": [
+      -141.33858162309724,
+      -41.43354093832453
+    ],
+    "distance_from_center": 147.28656751352696
+  },
+  {
+    "measurement_id": 5,
+    "true_position": [
+      -162.82351449338847,
+      -172.8005976019978
+    ],
+    "distance_from_center": 237.42692223837264
+  },
+  {
+    "measurement_id": 6,
+    "true_position": [
+      -183.02669210682097,
+      114.2551812480915
+    ],
+    "distance_from_center": 215.7614804954751
+  },
+  {
+    "measurement_id": 7,
+    "true_position": [
+      -196.56792167951002,
+      83.41173575753469
+    ],
+    "distance_from_center": 213.5332889633061
+  },
+  {
+    "measurement_id": 8,
+    "true_position": [
+      -151.40543070635007,
+      16.02069651088743
+    ],
+    "distance_from_center": 152.25067213010698
+  },
+  {
+    "measurement_id": 9,
+    "true_position": [
+      -30.205178338370374,
+      5.736781813696568
+    ],
+    "distance_from_center": 30.745137242021194
+  }
+]
